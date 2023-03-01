@@ -1,2 +1,2 @@
-# hanggliding
-Google Earth kml files
+# Google Earth kml files for hang gliding
+ - owens valley
