@@ -1,2 +1,2 @@
-# owensvalley
-Google Earth kml of Owens Valley
+# hanggliding
+Google Earth kml files
